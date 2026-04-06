@@ -1,6 +1,6 @@
 # Clone the empty repo
 ```bash
-git clone https://github.com/BLACK-CYBER-TOOLS/LUT-Camera.git
+git clone https://github.com/SentraSecurity/LUT-Camera.git
 cd LUT-Camera
 ```
 # Unzip the file
